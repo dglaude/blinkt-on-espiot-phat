@@ -22,6 +22,6 @@ Despite compatible API, many example from Blinkt! library https://github.com/pim
 - ...
 
 Other problems
--* time.time() on ESP8266 only provide second accuracy, could be replaced by time.ticks_ms()
--* colorsys is missing but a port of colorsys.hsv_to_rgb can be found here: https://gist.github.com/dries007/26a2f36770c28500b912b0ecf1276129
--* ...
+- time.time() on ESP8266 only provide second accuracy, could be replaced by time.ticks_ms()
+- colorsys is missing but a port of colorsys.hsv_to_rgb can be found here: https://gist.github.com/dries007/26a2f36770c28500b912b0ecf1276129
+- ...
